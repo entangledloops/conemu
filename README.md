@@ -1,5 +1,11 @@
 #A clean, Linux-like ConEmu (x64) configuration#
 
+- [Why Use This?](#why-use-this)
+- [Download](#download)
+- [Install](#install)
+- [Notes](#notes)
+- [Troubleshooting](#troubleshooting)
+
 ## Why use this? ##
 
 Standard Command Prompt isn't for you, and you want some nice simple Linux behavior on your Windows machine.
@@ -20,13 +26,13 @@ Although ConEmu comes prepackaged with [Clink](https://mridgers.github.io/clink)
 
 I've made some enhancements to the vanilla ConEmu settings that I think a wide audience might enjoy, if you're using a setup that involves these three components.
 
+## Download ##
+
+Right-click and select "Save as...": [ConEmu.xml](http://www.entangledloops.com/config/ConEmu.xml)
+
 ## Install ##
 
-1) Download [ConEmu.xml](http://www.entangledloops.com/config/ConEmu.xml) by right-clicking and "Save as..."
-
-2) In ConEmu settings (or upon install), choose "Import..." and select the file.
-
-That's it!
+In ConEmu settings (or upon install), choose "Import..." and select the file. That's it!
 
 ## Notes ##
 
