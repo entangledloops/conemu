@@ -12,7 +12,7 @@ And context menu integration in a slick little overhead, like this:
 
 ![Context](http://www.entangledloops.com/img/ConEmu/context.png)
 
-![Overhead](http://www.entangledloops.com/img/ConEmu/overhead.png)
+![Mini](http://www.entangledloops.com/img/ConEmu/mini.png)
 
 Out-of-the-box [ConEmu](https://conemu.github.io) is a great piece of software.
 So is [GoW](https://github.com/bmatzelle/gow/wiki).
