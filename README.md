@@ -1,4 +1,4 @@
-**A clean, Linux-like ConEmu (x64) configuration**
+#A clean, Linux-like ConEmu (x64) configuration#
 
 ## Why use this? ##
 
