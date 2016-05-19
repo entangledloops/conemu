@@ -28,6 +28,11 @@ I've made some enhancements to the vanilla ConEmu settings that I think a wide a
 
 That's it!
 
+## Notes ##
+
+I've remapped my CapsLock key using the standard [scanmapset.exe](http://www.entangledloops.com/files/bin/scanmapset.exe) to F11.
+That way, I just hit CapsLock and ConEmu appears. You can modify this in the keymaps however you want.
+
 ## Troubleshooting ##
 
 Any "Specified path cannot be found"-like messages you encounter can be easily remedied by modifying any paths in the xml to match your own. There shouldn't be many, but there isn't any way to remove the ones I'm using and still show you how to find those options easily. Just use a text editor or the provided ConEmu settings menu if you need to adjust anything.
