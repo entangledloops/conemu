@@ -1,4 +1,4 @@
-**A clean, Linux-like ConEmu configuration**
+**A clean, Linux-like ConEmu (x64) configuration**
 
 ## Why use this? ##
 
@@ -27,3 +27,7 @@ I've made some enhancements to the vanilla ConEmu settings that I think a wide a
 2) In ConEmu settings (or upon install), choose "Import..." and select the file.
 
 That's it!
+
+## Troubleshooting ##
+
+Any "Specified path cannot be found"-like messages you encounter can be easily remedied by modifying any paths in the xml to match your own. There shouldn't be many, but there isn't any way to remove the ones I'm using and still show you how to find those options easily. Just use a text editor or the provided ConEmu settings menu if you need to adjust anything.
