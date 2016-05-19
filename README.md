@@ -22,7 +22,7 @@ I've made some enhancements to the vanilla ConEmu settings that I think a wide a
 
 ## Install ##
 
-1) Download [ConEmu.xml](http://www.entangledloops.com/config/ConEmu.xml) by right-clicking and "Save as...
+1) Download [ConEmu.xml](http://www.entangledloops.com/config/ConEmu.xml) by right-clicking and "Save as..."
 
 2) In ConEmu settings (or upon install), choose "Import..." and select the file.
 
