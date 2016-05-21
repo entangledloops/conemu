@@ -1,7 +1,6 @@
 #A clean, Linux-like ConEmu (x64) configuration#
 
 - [Why Use This?](#why-use-this)
-- [Download](#download)
 - [Install](#install)
 - [Notes](#notes)
 - [Troubleshooting](#troubleshooting)
