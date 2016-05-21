@@ -26,10 +26,6 @@ Although ConEmu comes prepackaged with [Clink](https://mridgers.github.io/clink)
 
 I've made some enhancements to the vanilla ConEmu settings that I think a wider audience might enjoy, if you're using a setup that involves these three components.
 
-## Download ##
-
-Right-click and select "Save as...": [ConEmu.xml](http://www.entangledloops.com/config/ConEmu.xml)
-
 ## Install ##
 
 In ConEmu settings (or upon install), choose "Import..." and select the file. That's it!
