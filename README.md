@@ -28,7 +28,7 @@ I've made some enhancements to the vanilla ConEmu settings that I think a wider 
 ## Install ##
 
 1. In ConEmu settings (or upon install), choose "Import..." and select the file.
-2. If you get a warning about "On Top", you can safely ignore and select "no" when asked to revert.
+2. If you get a warning about "On Top", you can safely ignore and **select "no" if  asked to revert**.
 3. Close and reopen ConEmu.
 
 ## Notes ##
