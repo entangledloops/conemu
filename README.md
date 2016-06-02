@@ -7,7 +7,9 @@
 
 ## Why use this? ##
 
-My configuration normalizes behavior to a Linux-like mode for a modern x64-based machine, adjusting the copious available settings options to veteran expectations. There are numerous checkboxes and tooltips, and experimenting with the settings is the only true way to elucidate some of the behavior described by the authors. Here is a very incomplete list of some of the changes off the top of my head:
+My configuration normalizes behavior to a Linux-like mode for a modern x64-based machine, adjusting the copious available settings options to veteran expectations. There are numerous checkboxes and tooltips, and experimenting with the settings is the only true way to elucidate some of the behavior described by the authors. 
+
+**Here is a very incomplete list of some of the changes off the top of my head:**
 
 - key remaps improved to keep you sane and learning curve at a low and accidents minimized (e.g. standard terminal window/tab management shortcuts such as Ctrl+PgUp, etc.; remaps WinKey -> Ctrl in some instances for universal compat. and/or more frequently used options; extraneous remaps for rarely used options removed to prevent accidents; laptops accounted for by removing Fn-key / numpad dependent behavior; many others)
 - ESC acts as instant-hide for ConEmu window; shift+ESC for process-defined behavior (i.e. ordinary behavior)
