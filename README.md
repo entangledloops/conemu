@@ -47,6 +47,19 @@ I've made some enhancements to the vanilla ConEmu settings that I think a wider 
 3. If you get a warning about "On Top", you can safely ignore and **select "no" if  asked to revert**.
 4. Close and reopen ConEmu.
 
+## Optional ##
+
+If you'd like an instance to spawn quietly in the background at system startup so you can just hit CapsLock (or your remap) to enter a drop-down terminal:
+
+1. Press WinKey + R (should open Run dialog)
+2. Type `shell:startup` and hit enter.
+3. In the folder, right-click and Create Shortcut to `ConEmu64.exe`.
+4. Right-click shortcut, properties, and set target like this
+
+    "C:\path\to\your\ConEmu64.exe" -FS -Max -StartTSA
+
+Those options start ConEmu in fullscreen, maximized, and in the background iconified to tray.
+
 ## Notes ##
 
 Last tested for compatability with **ConEmu 160592 [Preview]**.
