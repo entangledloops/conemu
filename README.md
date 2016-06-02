@@ -47,7 +47,7 @@ I've made some enhancements to the vanilla ConEmu settings that I think a wider 
 3. If you get a warning about "On Top", you can safely ignore and **select "no" if  asked to revert**.
 4. Close and reopen ConEmu.
 
-## Optional ##
+### Optional ###
 
 If you'd like an instance to spawn quietly in the background at system startup so you can just hit CapsLock (or your remap) to enter a drop-down terminal:
 
