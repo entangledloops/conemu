@@ -53,7 +53,7 @@ If you'd like an instance to spawn quietly in the background at system startup s
 
 1. Press WinKey + R (should open Run dialog).
 2. Type `shell:startup` and hit enter.
-3. In the folder, right-click and Create Shortcut to: `ConEmu64.exe`
+3. In the folder, right-click and Create Shortcut to ConEmu64 executable.
 4. Right-click shortcut, properties, and set target like this:
 
       `"C:\path\to\your\ConEmu64.exe" -FS -Max -StartTSA`
